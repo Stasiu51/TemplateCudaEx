@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestPyExtension", "TestPyExtension.vcxproj", "{87EB482A-6696-471B-9442-43424B1D36C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CompileModule|x64 = CompileModule|x64
+		CompileModule|x86 = CompileModule|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EB482A-6696-471B-9442-43424B1D36C2}.CompileModule|x64.ActiveCfg = CompileModule|x64
+		{87EB482A-6696-471B-9442-43424B1D36C2}.CompileModule|x64.Build.0 = CompileModule|x64
+		{87EB482A-6696-471B-9442-43424B1D36C2}.CompileModule|x86.ActiveCfg = CompileModule|Win32
+		{87EB482A-6696-471B-9442-43424B1D36C2}.CompileModule|x86.Build.0 = CompileModule|Win32
+		{87EB482A-6696-471B-9442-43424B1D36C2}.Debug|x64.ActiveCfg = Debug|x64
+		{87EB482A-6696-471B-9442-43424B1D36C2}.Debug|x64.Build.0 = Debug|x64
+		{87EB482A-6696-471B-9442-43424B1D36C2}.Debug|x86.ActiveCfg = Debug|Win32
+		{87EB482A-6696-471B-9442-43424B1D36C2}.Debug|x86.Build.0 = Debug|Win32
+		{87EB482A-6696-471B-9442-43424B1D36C2}.Release|x64.ActiveCfg = Release|x64
+		{87EB482A-6696-471B-9442-43424B1D36C2}.Release|x64.Build.0 = Release|x64
+		{87EB482A-6696-471B-9442-43424B1D36C2}.Release|x86.ActiveCfg = Release|Win32
+		{87EB482A-6696-471B-9442-43424B1D36C2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05085767-336C-470C-9343-B74F656BBC22}
+	EndGlobalSection
+EndGlobal

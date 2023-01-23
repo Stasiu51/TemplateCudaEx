@@ -1,0 +1,2 @@
+﻿  myModule.cpp
+LINK : fatal error LNK1104: cannot open file 'python311_d.lib'

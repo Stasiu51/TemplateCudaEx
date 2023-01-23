@@ -1,0 +1,6 @@
+TemplateCudaEx.cpp
+setup.py
+TemplateCudaEx.egg-info/PKG-INFO
+TemplateCudaEx.egg-info/SOURCES.txt
+TemplateCudaEx.egg-info/dependency_links.txt
+TemplateCudaEx.egg-info/top_level.txt

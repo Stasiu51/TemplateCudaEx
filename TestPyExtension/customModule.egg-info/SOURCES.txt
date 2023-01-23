@@ -1,0 +1,6 @@
+myModule.cpp
+setup.py
+customModule.egg-info/PKG-INFO
+customModule.egg-info/SOURCES.txt
+customModule.egg-info/dependency_links.txt
+customModule.egg-info/top_level.txt

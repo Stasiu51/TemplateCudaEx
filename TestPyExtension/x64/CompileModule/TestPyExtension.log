@@ -1,0 +1,16 @@
+﻿  error_utils.cpp
+  cuda_source.cu
+c1xx : fatal  error C1083: Cannot open source file: 'cuda_source.cu': No such file or directory
+  TemplateCudaEx.cpp
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\venv\Lib\site-packages\numpy\core\include\numpy\npy_1_7_deprecated_api.h(14): warning Msg: Using deprecated NumPy API, disable it with #define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(68,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'npy_intp'
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(68,12): message : consider using '%Id' in the format string
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(68,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'npy_intp'
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(68,12): message : consider using '%Id' in the format string
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(96,12): warning C4477: 'printf' : format string '%Id' requires an argument of type '__int64', but variadic argument 1 has type 'int'
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(96,12): message : consider using '%d' in the format string
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(96,12): message : consider using '%I32d' in the format string
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(96,12): warning C4477: 'printf' : format string '%Id' requires an argument of type '__int64', but variadic argument 3 has type 'int'
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(96,12): message : consider using '%d' in the format string
+C:\Users\Stasiu Wolanski\Projects\TestPyExtension\TestPyExtension\TemplateCudaEx.cpp(96,12): message : consider using '%I32d' in the format string
+  Generating Code...
